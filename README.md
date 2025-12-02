@@ -1,6 +1,6 @@
 # NWC-DRE v0.1
 
-**Network World Classification — Digital Real Estate Gate Specification**
+**NWC Categorization System — Digital Real Estate Gate Specification**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/status-draft-orange.svg)](https://github.com)
@@ -106,3 +106,4 @@ MIT License - See [LICENSE](LICENSE) for details.
 ## Status
 
 **Draft v0.1** - Subject to breaking changes before v1.0 release.
+
